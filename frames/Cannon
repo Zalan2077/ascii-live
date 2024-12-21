@@ -1,8 +1,8 @@
 package frames
 
-var Clock = cannon
+var Cannon = DefaultFrameType(CannonFrames)
                            
-var cannonFrames = []string{
+var CannonFrames = []string{
 `
                                            I
                                            I	
